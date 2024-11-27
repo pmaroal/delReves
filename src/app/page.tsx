@@ -1,5 +1,6 @@
 import { Buy } from '@/components/atoms/svg/buy'
 import { Search } from '@/components/atoms/svg/search'
+import Discount from '@/components/molecules/Discount/Discount'
 import Navbar from '@/components/molecules/Navbar/Navbar'
 import Product from '@/components/molecules/Product/Product'
 import Image from 'next/image'
@@ -127,6 +128,7 @@ export default function Home() {
           ))}
         </div>
       </section>
+      <Discount />
     </main>
   )
 }
