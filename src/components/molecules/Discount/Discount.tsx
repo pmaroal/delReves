@@ -1,4 +1,5 @@
 import { MulishText } from '@/components/atoms/texts/mulish_text'
+import Image from 'next/image'
 
 export default function Discount() {
   return (
@@ -12,6 +13,13 @@ export default function Discount() {
         text="DESCUBRE TU DESCUENTO ELIGIENDO CAMISETA CON DISEÑO + CAMISETA SIN DISEÑO"
         className="text-white"
         fontSize="20px"
+      />
+      <Image
+        src="/images/home/logo_home.avif"
+        alt={'logo'}
+        width={300}
+        height={300}
+        className="onHover flex rounded-lg object-cover hover:scale-105"
       />
       <MulishText
         text="¿NO ENCUENTRAS TU TALLA"
