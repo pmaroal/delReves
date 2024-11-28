@@ -9,66 +9,66 @@ export default function Home() {
   const products = [
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image: '/images/camiseta_clasica/clasica_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image: '/images/camiseta_clasica/clasica_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image:
         '/images/camiseta_clasica/clasica_green_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image:
         '/images/camiseta_clasica/clasica_most_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image:
         '/images/camiseta_clasica/clasica_purple_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image: '/images/camiseta_clasica/clasica_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image: '/images/camiseta_clasica/clasica_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image:
         '/images/camiseta_clasica/clasica_purple_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image:
         '/images/camiseta_clasica/clasica_purple_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },
     {
       text: 'Camiseta clásica',
-      price: '20 €',
+      price: '€ 20,00 EUR',
       front_image: '/images/camiseta_clasica/clasica_front_logo_green.avif',
       back_image: '/images/camiseta_clasica/clasica_back_logo_green.avif',
     },

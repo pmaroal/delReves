@@ -21,24 +21,24 @@ export default function Product({
   return (
     <div>
       <div
-        className="flex flex-col gap-3"
+        className="flex flex-col gap-2"
         onMouseEnter={() => setIsHovered(true)}
         onMouseLeave={() => setIsHovered(false)}
       >
         <Link href={'/'} className="flex flex-col gap-3">
-          <div className="overflow-hidden rounded-lg">
+          <div className="overflow-hidden rounded-xl">
             <Image
               src={isHovered ? back_image : front_image}
               alt={'/camiseta'}
-              width={300}
-              height={300}
+              width={263}
+              height={263}
               className="onHover flex rounded-lg object-cover hover:scale-105"
             />{' '}
           </div>
           <MulishText
             text={text}
-            className="text-white underline"
-            fontSize="24px"
+            className="text-white hover:underline hover:underline-offset-4"
+            fontSize="18px"
           />
         </Link>
         <MulishText text={price} className="text-white" fontSize="20px" />
